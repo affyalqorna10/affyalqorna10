@@ -1,6 +1,8 @@
 <p align="center">
-  <img src="https://github.com/affyalqorna10/affyalqorna10/blob/fac590881915086a43b58a7c6ff307dc0d56a482/bg.jpg" height="200"/>
+  <img src="https://github.com/affyalqorna10/affyalqorna10/blob/4860c41da5dbbe93e6215315dfc8936ddac5cbde/bg.png" height="200"/>
 </p>
+
+
 
 
 <h1 align="center">Hi 
