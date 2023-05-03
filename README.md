@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/affyalqorna10/affyalqorna10/blob/4860c41da5dbbe93e6215315dfc8936ddac5cbde/bg.png" height="200"/>
+  <img src="https://github.com/affyalqorna10/affyalqorna10/blob/0dcdc99c8588b91e34ef344c5a058d3bff4f323c/banner.gif" height="200"/>
 </p>
 
 
