@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="https://github.com/affyalqorna10/affyalqorna10/blob/fac590881915086a43b58a7c6ff307dc0d56a482/bg.jpg" height="200"/>
+</p>
+
+
 <h1 align="center">Hi 
   <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Affy Alqorna</h1>
 <p align="center">
